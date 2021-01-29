@@ -100,7 +100,6 @@ INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authori
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'DFID');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Environment Agency England');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Welsh Government');
-INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Somerset County Council');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Agricultural and Horticultural Development BoardbOARD');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Department of Agriculture, Food and Rural Affairs');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Department for Environment, Food and Rural Affairs');
