@@ -88,7 +88,6 @@ INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authori
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'OLEV - Office for Low Emissions Vehicles');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Her Majesty’s Revenue and Customs');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'British Tourist Authority');
-INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Her Majesty’s Revenue and Customs');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Science and Technology Facilities Council');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'New Anglia');
 INSERT INTO GRANTING_AUTHORITY (GA_ID, GA_NAME) VALUES(nextval('granting_authority_read_seq'),'Lancashire County Council');
